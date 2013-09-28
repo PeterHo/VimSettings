@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GVim
+Comment=Edit text files
+Icon=/home/goodhzz/vim/src/vim.ico
+Exec=gvim %f
+Terminal=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
